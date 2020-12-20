@@ -1,4 +1,4 @@
-###Java App Development
+Java App Development
 ===================================
 
 Install and explore "Postman" (by hitting some APIs), study about JSON also (Useful links given below)
@@ -9,7 +9,7 @@ Install MySQL (including workbench) and try some commands(Creating table etc.) (
 
 Study about REST APIs (GET, POST, PUT etc.) (Useful links given below)
 
-Useful links:
+## Useful links:
 For REST APIs https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn (only first 7 videos of this playlist)
 
 For core Java: https://www.geeksforgeeks.org/java/ https://www.w3schools.com/JAVA/default.asp https://www.youtube.com/watch?v=W-N2ltgU-X4
