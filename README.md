@@ -24,7 +24,7 @@ For Maven: https://www.youtube.com/watch?v=pt3uB0sd5kY https://maven.apache.org/
 
 For JSON: https://www.youtube.com/watch?v=iiADhChRriM
 
-Adding few more links ( for core Java only):
+## Adding few more links ( for core Java only):
 https://www.youtube.com/watch?v=pTAda7qU4LY&list=PL59LTecnGM1Mg6I4i_KbS0w5bPcDjl7oz&index=9
 
 https://www.youtube.com/watch?v=70qy6_gw1Hc&list=PL59LTecnGM1Mg6I4i_KbS0w5bPcDjl7oz&index=13
@@ -33,14 +33,14 @@ https://www.youtube.com/watch?v=6q98thyEX4Q&list=PLonJJ3BVjZW6_q8gh7XoLUIhRIyBcY
 
 https://www.youtube.com/watch?v=7GwptabrYyk
 
-The useful links
+## The useful links
 https://api.github.com/search/users?q=shashi
 
 https://developer.github.com/v3/
 
 https://start.spring.io/
 
-Useful YouTube Playlists:
+## Useful YouTube Playlists:
 https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
 
 https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE
@@ -53,22 +53,22 @@ https://www.youtube.com/watch?v=upoIwn4rWCo&list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcT
 
 ==============================================================
 
-Java and Spring Interview Questions:
+## Java and Spring Interview Questions:
 https://www.baeldung.com/spring-boot-interview-questions?fbclid=IwAR1LAIhIP89fMGTcZymcWR55QQu0a-z0q4alXmwLZMMKTaS6JHlb4lpvRjs
 
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
-Resume:
+## Resume:
 https://www.careercup.com/resume
 
 You can add these skills to your resume/profile after the course completion:
 
 Java, Spring / Spring Boot, REST APIs, MySQL, JPA / Hibernate, JDBC, Socket Programming, Maven, Postman, Swagger
 
-Other Links:
+## Other Links:
 For Deploying on AWS: https://www.youtube.com/watch?v=6RrqytT0-I8
 
-Object Oriented Design (OOPs) related questions:
+## Object Oriented Design (OOPs) related questions:
 
 https://www.geeksforgeeks.org/design-snake-game/
 
