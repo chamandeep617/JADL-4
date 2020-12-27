@@ -11,9 +11,9 @@ public class ThreadedFactorials {
         MyThread[] threads = new MyThread[arr.length];
         for(int i = 0 ; i < arr.length ; i++){
             threads[i] = new MyThread(arr[i]);
-            threads[i].setDaemon(true);
+//            threads[i].setDaemon(true);
             threads[i].start();
-//            threads[i].join();
+            threads[i].join();
         }
  // --->
 //        for(int i = 0 ; i < arr.length ; i++){
