@@ -22,9 +22,7 @@ public class BookController {
 
     @PostMapping("/insertBook")
     public String insertBook(@RequestBody Book book) throws SQLException {
-
         return bookService.insetBook(book);
-
     }
 
     @GetMapping("/getAllBooks")
