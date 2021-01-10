@@ -4,9 +4,10 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+
 @Getter
 @Setter
-@ToString
+//@ToString
 public class Book {
 
     private int id;
@@ -20,4 +21,7 @@ public class Book {
         this.cost = cost;
     }
 
+    @Override
+    public String toString() {
+    }
 }

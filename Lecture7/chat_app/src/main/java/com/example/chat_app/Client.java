@@ -1,10 +1,5 @@
 package com.example.chat_app;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.config.ConfigurableBeanFactory;
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
-
 import java.io.*;
 import java.net.*;
 import javax.swing.*;
@@ -49,7 +44,7 @@ public class Client extends JFrame implements ActionListener {
 
         bp.add(send);
         bp.add(exit);
-        bp.setBackground(Color.LIGHT_GRAY);
+        bp.setBackground(Color.RED);
         bp.setName("Instant Messenger");
         add(bp,"North");
         send.addActionListener(this);

@@ -11,7 +11,7 @@ public class Server {
 
     public static void main(String[] args) throws IOException {
 
-        ServerSocket socket = new ServerSocket(4000);
+        ServerSocket socket = new ServerSocket(4001);
         System.out.println("waiting for the client connection");
         Socket clientSocket = socket.accept();
         System.out.println("Client connected");
